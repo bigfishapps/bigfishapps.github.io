@@ -1,0 +1,91 @@
+/* screen - header16 */
+
+.header16 {
+  background-color: rgba(248,251,255,1.0);
+  height: 850px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1400px;
+}
+.header16 .a-company-dedicated-C61RwL {
+  background-color: transparent;
+  color: rgba(99,100,102,1.0);
+  font-family: 'Nunito', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 48px;
+  left: 145px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 362px;
+}
+.header16 .group-73-C61RwL {
+  background-color: transparent;
+  height: 148px;
+  left: 145px;
+  position: absolute;
+  top: 49px;
+  width: 223px;
+}
+.header16 .hello-we-are-big-fis-C61RwL {
+  background-color: transparent;
+  color: rgba(0,0,0,1.0);
+  font-family: 'Archivo Black', Helvetica, Arial, serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 145px;
+  letter-spacing: 0.00px;
+  line-height: 80px;
+  position: absolute;
+  text-align: left;
+  top: 251px;
+  width: 525px;
+}
+.header16 .helloabigfishin-C61RwL {
+  background-color: transparent;
+  color: rgba(99,100,102,1.0);
+  font-family: 'Nunito', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 1010px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 771px;
+  white-space: nowrap;
+  width: 362px;
+}
+.header16 .high-quality-apps-fo-C61RwL {
+  background-color: transparent;
+  color: rgba(148,150,151,1.0);
+  font-family: 'Nunito', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 145px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 771px;
+  white-space: nowrap;
+  width: 426px;
+}
+.header16 .serfing-C61RwL {
+  background-color: transparent;
+  height: 571px;
+  left: 568px;
+  position: absolute;
+  top: 124px;
+  width: 785px;
+}
